@@ -1,4 +1,5 @@
 # Zomato Analytics Dashboard : Sales Performance and Decision Insights
+![Zomato-Logo](https://github.com/user-attachments/assets/4b1fbcb4-476e-4f1c-a118-aa0515b290d4)
 
 # Project Overview:
 
