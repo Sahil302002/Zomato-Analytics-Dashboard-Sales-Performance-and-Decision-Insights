@@ -154,7 +154,7 @@ A **Clear Filter** button is also included, making it easy to reset all filters 
 
 ---
 
-#  Sales and Order Insights based on Sales and Orderview Dashboard
+# Insights based on Sales and Orderview Dashboard
 
 ### **Monthly Sales & Order Trends**:
 
