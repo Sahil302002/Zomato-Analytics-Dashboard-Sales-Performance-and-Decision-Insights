@@ -63,6 +63,8 @@ Created and optimized a relational database, `Zomato_DB`, to enable seamless dat
 - Connected `Zomato_DB` to Power BI for creating interactive visualizations.
 - The structured database facilitated efficient data queries and insights generation.
 
+![Data modeling](https://github.com/user-attachments/assets/385b69a4-0b7d-4c29-bcb0-f15ec97496cd)
+
 ---
 
 # Features of Zomato Sales and Orders Dashboard
