@@ -23,6 +23,9 @@ Created and optimized a relational database, `Zomato_DB`, to enable seamless dat
 - **Restaurants : 72 records with 4 attributes.**  <a href ="restaurants.csv"> Restaurants Dataset link </a>
 - **Riders : 34 records with 3 attributes**        <a href ="riders.csv"> Riders Dataset link </a>
 
+![Er Diagram After Relationships](https://github.com/user-attachments/assets/432cc994-49dd-4c68-876a-af597523097b)
+
+
 ### **Optimization:**
 
 - Applied efficient data types (`INT`, `VARCHAR`, `DATE`, etc.) for storage and querying.
