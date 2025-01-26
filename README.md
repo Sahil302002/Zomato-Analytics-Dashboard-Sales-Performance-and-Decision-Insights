@@ -67,7 +67,9 @@ Created and optimized a relational database, `Zomato_DB`, to enable seamless dat
 
 ---
 
-# Features of Zomato Sales and Orders Dashboard
+# Zomato Sales and Orders Overview Dashboard
+
+![Sales and Orders Overview](https://github.com/user-attachments/assets/2bb95b5b-0870-4770-8654-179f1b51b6e6)
 
 ## **KPI (Key Performance Indicators) Cards**
 
@@ -86,7 +88,7 @@ Quickly assess Zomato’s operational performance with core metrics such as tota
 
 ---
 
-## **Clustered Column and Line Chart**
+### **Clustered Column and Line Chart**
 
 **Data:**
 
@@ -102,7 +104,7 @@ Sales and orders peak in March, while February shows a dip, likely influenced by
 
 ---
 
-## **Horizontal Bar Chart**
+### **Horizontal Bar Chart**
 
 **Data:**
 
@@ -119,7 +121,7 @@ Mumbai leads with ₹15.22 L in sales, indicating a strong market. Chicken Birya
 
 ---
 
-## **Line Chart**
+### **Line Chart**
 
 **Data:**
 
@@ -135,7 +137,7 @@ Sunday has the highest orders (1,506), while Tuesday sees a noticeable dip, pres
 
 ---
 
-## **Shaded Line Chart**
+### **Shaded Line Chart**
 
 **Data:**
 
@@ -149,7 +151,7 @@ Depicts order volume across hours of the day, aiding in operational and marketin
 
 Peak orders occur at 2pm to 4 PM (1,188 orders), likely due to late lunch breaks, suggesting an ideal time for promotional offers.
 
-## **Additional Features:**
+### **Additional Features:**
 
 This dashboard includes slicers for **Restaurant Name**, **Year**, and **City**, allowing stakeholders to filter metrics dynamically based on their specific interests. 
 
@@ -157,7 +159,7 @@ A **Clear Filter** button is also included, making it easy to reset all filters 
 
 ---
 
-# Sales and Orders Overview Dashboard: Sales and Order Insights
+#  Sales and Order Insights based on Sales and Orderview Dashboard
 
 ### **Monthly Sales & Order Trends**:
 
@@ -188,8 +190,10 @@ A **Clear Filter** button is also included, making it easy to reset all filters 
 
 ---
 
-# Features of  Details Dashboard
+# Details Dashboard
 
+
+## Features
 ### **Tabular Visual**
 
 - **Visual Used:** Matrix/Table Visual
