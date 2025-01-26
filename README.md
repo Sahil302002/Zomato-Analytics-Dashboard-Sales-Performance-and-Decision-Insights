@@ -20,7 +20,7 @@ Created and optimized a relational database, `Zomato_DB`, to enable seamless dat
 - **Orders :  10,000 records with 8 attributes**   <a href ="orders.csv"> Orders Dataset Link</a>
 - **Customers : 33 records with 3 attributes**     <a href ="customers.csv"> Customers Dataset link</a>
 - **Deliveries:  9,750 records with 5 attributes** <a href ="deliveries.csv"> deliveries Dataset link </a>
-- **Restaurants : 72 records with 5 attributes.**  <a href ="restaurants.csv"> Restaurants Dataset link </a>
+- **Restaurants : 72 records with 4 attributes.**  <a href ="restaurants.csv"> Restaurants Dataset link </a>
 - **Riders : 34 records with 3 attributes**        <a href ="riders.csv"> Riders Dataset link </a>
 
 ### **Optimization:**
