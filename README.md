@@ -86,7 +86,6 @@ Created and optimized a relational database, `Zomato_DB`, to enable seamless dat
 
 Quickly assess Zomato’s operational performance with core metrics such as total orders, sales, and fulfillment rates. These KPIs provide stakeholders with a snapshot of business health and support strategic decisions.
 
----
 
 ### **Clustered Column and Line Chart**
 
@@ -102,7 +101,6 @@ Visualizes monthly sales alongside order volumes to uncover trends and correlati
 
 Sales and orders peak in March, while February shows a dip, likely influenced by external factors like seasonality or market conditions.
 
----
 
 ### **Horizontal Bar Chart**
 
@@ -119,8 +117,6 @@ Showcases sales distribution across cities and highlights customer preferences b
 
 Mumbai leads with ₹15.22 L in sales, indicating a strong market. Chicken Biryani and Paneer Butter Masala rank as the most popular cuisines, offering direction for menu and marketing strategies.
 
----
-
 ### **Line Chart**
 
 **Data:**
@@ -135,7 +131,6 @@ Identifies demand patterns during the week to inform marketing and operational p
 
 Sunday has the highest orders (1,506), while Tuesday sees a noticeable dip, presenting an opportunity for targeted engagement on low-demand days.
 
----
 
 ### **Shaded Line Chart**
 
@@ -192,6 +187,7 @@ A **Clear Filter** button is also included, making it easy to reset all filters 
 
 # Details Dashboard
 
+![Detail Dashboard](https://github.com/user-attachments/assets/982651f1-e3b9-48c3-b5a6-094b913f50dc)
 
 ## Features
 ### **Tabular Visual**
@@ -204,8 +200,6 @@ A **Clear Filter** button is also included, making it easy to reset all filters 
     - **Rider Performance:** Displays each rider’s fulfilled, pending, and not delivered orders along with average delivery rating.
     - **Restaurant Performance:** Includes total sales, total orders, and city-wise data for restaurants.
 
----
-
 ### **Conditional Formatting (Color Coding)**
 
 - **Visual Used:** Applied on tables, bars, and KPIs.
@@ -215,16 +209,12 @@ A **Clear Filter** button is also included, making it easy to reset all filters 
     - **Customers & Restaurants:** Conditional formatting for total sales to visually emphasize performance.
     - **Rider Ratings:** Green and yellow bars to indicate order delivery status.
 
----
-
 ### **Slicers**
 
 - **Visual Used:** Slicer Visual
 - **Purpose:** Allow filtering of data dynamically.
 - **Examples:**
     - Filters for **Year, Restaurant, and City** to allow users to narrow down data.
-
----
 
 ### **Combination of Colors and Layout**
 
@@ -311,7 +301,3 @@ A **Clear Filter** button is also included, making it easy to reset all filters 
 
 - **Reward Loyal Customers:** Implement loyalty programs to retain high-value customers like Sneha Desai and Rahul Verma.
 - **Engage Mid-Tier Customers:** Offer exclusive promotions to customers like Bhavna Agarwal and Ritu Patel, encouraging repeat purchases and greater spending.
-
-[**Zomato SQL Analysis**](https://www.notion.so/Zomato-SQL-Analysis-185a2286622b8001b0f1f4c23018d8c0?pvs=21)
-
-[Questions](https://www.notion.so/Questions-185a2286622b804d967cf0f4e185e83b?pvs=21)
